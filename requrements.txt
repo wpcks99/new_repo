@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 numpy
 pandas
 matplotlib
@@ -7,4 +8,15 @@ statsmodels
 scipy
 patsy
 scikit-learn
+=======
+numpy
+pandas
+matplotlib
+lxml
+seaborn
+statsmodels
+scipy
+patsy
+scikit-learn
+>>>>>>> 51a6a5cf05828eb0a79689e3fa0727b30ce6afd3
 beautifulsoup4
